@@ -1,6 +1,6 @@
 {
-  "name": "apidoc-core",
-  "version": "0.5.1",
+  "name": "apidoc-core-forked-v1",
+  "version": "0.2.0",
   "description": "Core parser library to generate apidoc result following the apidoc-spec",
   "author": "Peter Rottmann <rottmann@inveris.de>",
   "license": {
@@ -8,13 +8,12 @@
     "url": "https://github.com/apidoc/apidoc-core/blob/master/LICENSE"
   },
   "main": "./lib/index.js",
-  "homepage": "https://github.com/apidoc/apidoc-core",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apidoc/apidoc-core.git"
+    "url": "https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/apidoc-core-forked-v1"
   },
   "bugs": {
-    "url": "https://github.com/apidoc/apidoc-core/issues"
+    "url": "https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/apidoc-core-forked-v1/issues"
   },
   "scripts": {
     "test": "npm run jshint && mocha test/**/*_test.js",
